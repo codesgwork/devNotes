@@ -6,15 +6,6 @@ When it comes to **CSS Normalize** and **CSS Reset**, both aim to make web pages
 - **Use case**: Normalize is more refined because it doesn’t remove all styles; it keeps default styling when it’s useful.
 - **Example**: It keeps the default margin for elements like `h1`, `p`, but fixes inconsistencies in font rendering, form elements, and more.
 
-  **How to use:**
-
-  ```html
-  <link
-    rel="stylesheet"
-    href="https://necolas.github.io/normalize.css/8.0.1/normalize.css"
-  />
-  ```
-
 ### 2. **CSS Reset:**
 
 - **Purpose**: It removes all default styles applied by the browser, leaving you with a blank slate.
